@@ -23,19 +23,24 @@ header {
 
 inside {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     background-color: darkgray;
     height: 80%;
     padding: 1rem;
 }
 
 .bb {
+    cursor: pointer;
     color: blue;
     border-style: none;
     border-radius: 5px;
     background-color: white;
     height: 7%;
     width: 35%;
+}
+
+.search {
+    border-style: none;
 }
 
 .dsb{
