@@ -30,6 +30,8 @@ inside {
 }
 
 .dsb{
+    color: blue;
+    text-align: center;
     background-color: aqua;
     border-radius: 5px;
     height: 7%;
