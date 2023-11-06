@@ -40,16 +40,21 @@ inside {
 }
 
 .search {
+    margin-top: 100%;
     border-style: none;
+    display: block;
+    text-align: center;
 }
 
 .dsb{
+
     color: blue;
     background-color: aqua;
     border-style: none;
     border-radius: 5px;
     height: 7%;
     width: 35%;
+    align-self: end;
 }
 
 footer {
